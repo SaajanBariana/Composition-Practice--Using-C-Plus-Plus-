@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1459815729 source:c:\users\saajan bariana\documents\c++ training\compositionpractice\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1459815729 c:\users\saajan bariana\documents\c++ training\compositionpractice\include\birthday.h
+
+1459815898 source:c:\users\saajan bariana\documents\c++ training\compositionpractice\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1459815879 c:\users\saajan bariana\documents\c++ training\compositionpractice\include\people.h
+	<string>
+	"Birthday.h"
+
+1459815898 source:c:\users\saajan bariana\documents\c++ training\compositionpractice\src\people.cpp
+	"People.h"
+	<iostream>
+	"Birthday.h"
+
